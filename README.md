@@ -1,32 +1,108 @@
 
 <div align="center">
 
-# ⚡ RoseNet Labs
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:283A90,100:7C3AED&height=210&section=header&text=RoseNet%20Labs&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Cloud&descAlignY=60)
 
-### Software Engineering · AI · Cloud
+### Building meaningful digital experiences
 
-Building meaningful digital products.
+Software Developer | Founder & Builder | AI Enthusiast
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=rosenetlabs9&color=7c3aed&style=for-the-badge)
 
 </div>
 
-## About Me
+---
 
-Software developer focused on building
-mobile applications, AI-powered products,
-and scalable cloud systems.
+## 👨‍💻 About Me
 
-## GitHub Analytics
+Hey! Welcome to my GitHub profile.
 
-![GitHub Stats](https://ghstats.dev/api/card?username=rosenetlabs9&theme=tokyonight)
+I'm passionate about building innovative digital products, combining software engineering, artificial intelligence and cloud technologies.
 
-## Focus Areas
+- 🚀 Building scalable web and mobile applications
+- 🤖 Exploring AI-powered products
+- ☁️ Working with cloud infrastructure
+- 📱 Developing real-world digital solutions
+- 🌏 Based in Taiwan
 
-- Mobile & Web Development
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,java,cpp&theme=dark" />
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma&theme=dark" />
+
+### Backend & Cloud
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,cloudflare,docker&theme=dark" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,postman&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **RoseNet Labs** | Digital products and cloud-powered solutions |
+| **NAINAI** | AI-powered family assistance ecosystem |
+| **UNIAPP** | University community mobile application |
+
+*Selected projects are currently in development.*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rosenetlabs9&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosenetlabs9&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=rosenetlabs9&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rosenetlabs9&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
 - Artificial Intelligence
+- Mobile Application Development
 - Cloud Architecture
-- Product Engineering
+- Full-Stack Engineering
+- Startup Product Development
+
+---
+
+<div align="center">
+
+### Let's Build Something Great
+
+*Turning ideas into real-world products.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:283A90,100:7C3AED&height=110&section=footer)
+
+</div>
