@@ -13,19 +13,45 @@ Software Developer | Founder & Builder | AI Enthusiast
 
 ---
 
+
 ## 👨‍💻 About Me
 
-Hi, I'm **Lucas Isasi**, founder of **RoseNet Labs**.
+### `lucas.ts`
 
-I'm focused on building digital products, AI-powered solutions, cloud systems, and real-world applications with strong product vision.
+```typescript
+const lucas = {
+  name: "Lucas Isasi",
+  role: "Founder & Software Developer",
+  company: "RoseNet Labs",
+  location: "Taiwan",
 
-- 🚀 Building scalable web and mobile applications
-- 🤖 Exploring AI-powered products
-- ☁️ Working with cloud infrastructure
-- 📱 Developing real-world digital solutions
-- 🌏 Based in Taiwan
+  projects: [
+    "NAINAI",
+    "UNIAPP",
+    "ListoYa"
+  ],
+
+  interests: [
+    "Artificial Intelligence",
+    "Mobile Development",
+    "Cloud Engineering",
+    "Product Innovation"
+  ],
+
+  mission: "Turning ideas into real-world products"
+};
+
+export default lucas;
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=50&lines=Building+meaningful+digital+experiences;Turning+ideas+into+real-world+products;Founder+of+RoseNet+Labs" alt="Animated typing introduction" />
+
+</div>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
