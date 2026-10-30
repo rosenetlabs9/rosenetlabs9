@@ -1,11 +1,11 @@
+
 <div align="center">
 
-# ⚡ RoseNet Labs
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:283A90,100:7C3AED&height=210&section=header&text=RoseNet%20Labs&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Cloud&descAlignY=60)
 
-### Founder · Lucas Isasi  
-### Software Engineering · AI · Cloud
+### Building meaningful digital experiences
 
-Building meaningful digital products.
+Software Developer | Founder & Builder | AI Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rosenetlabs9&color=7c3aed&style=for-the-badge)
 
@@ -15,14 +15,14 @@ Building meaningful digital products.
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Lucas Isasi**, founder of **RoseNet Labs**.
+Hey! Welcome to my GitHub profile.
 
-I'm focused on building digital products, AI-powered solutions, cloud systems, and real-world applications with strong product vision.
+I'm passionate about building innovative digital products, combining software engineering, artificial intelligence and cloud technologies.
 
-- 🚀 Founder of **RoseNet Labs**
-- 🤖 Interested in **Artificial Intelligence**
-- ☁️ Focused on **Cloud & Scalable Systems**
-- 📱 Building **mobile and web applications**
+- 🚀 Building scalable web and mobile applications
+- 🤖 Exploring AI-powered products
+- ☁️ Working with cloud infrastructure
+- 📱 Developing real-world digital solutions
 - 🌏 Based in Taiwan
 
 ---
@@ -32,16 +32,20 @@ I'm focused on building digital products, AI-powered solutions, cloud systems, a
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,java,cpp&theme=dark" />
 
 ### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma&theme=dark" />
 
 ### Backend & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,docker,cloudflare&theme=dark" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,cloudflare,docker&theme=dark" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,postman&theme=dark" />
 
 </div>
 
@@ -54,7 +58,6 @@ I'm focused on building digital products, AI-powered solutions, cloud systems, a
 | **RoseNet Labs** | Digital products and cloud-powered solutions |
 | **NAINAI** | AI-powered family assistance ecosystem |
 | **UNIAPP** | University community mobile application |
-| **ListoYa** | On-demand service and platform concept |
 
 *Selected projects are currently in development.*
 
@@ -68,7 +71,17 @@ I'm focused on building digital products, AI-powered solutions, cloud systems, a
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosenetlabs9&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=rosenetlabs9&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rosenetlabs9&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rosenetlabs9&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -86,8 +99,10 @@ I'm focused on building digital products, AI-powered solutions, cloud systems, a
 
 <div align="center">
 
-## Let's Build Something Great
+### Let's Build Something Great
 
 *Turning ideas into real-world products.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:283A90,100:7C3AED&height=110&section=footer)
 
 </div>
