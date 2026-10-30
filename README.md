@@ -15,9 +15,9 @@ Software Developer | Founder & Builder | AI Enthusiast
 
 ## 👨‍💻 About Me
 
-Hey! Welcome to my GitHub profile.
+Hi, I'm **Lucas Isasi**, founder of **RoseNet Labs**.
 
-I'm passionate about building innovative digital products, combining software engineering, artificial intelligence and cloud technologies.
+I'm focused on building digital products, AI-powered solutions, cloud systems, and real-world applications with strong product vision.
 
 - 🚀 Building scalable web and mobile applications
 - 🤖 Exploring AI-powered products
@@ -58,6 +58,7 @@ I'm passionate about building innovative digital products, combining software en
 | **RoseNet Labs** | Digital products and cloud-powered solutions |
 | **NAINAI** | AI-powered family assistance ecosystem |
 | **UNIAPP** | University community mobile application |
+| **ListoYa** | On-demand service and platform concept |
 
 *Selected projects are currently in development.*
 
